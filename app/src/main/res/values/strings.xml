@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloWorldApp</string>
+    <string name="option_red">Red</string>
+    <string name="option_green">Green</string>
+    <string name="option_blue">Blue</string>
+    <string name="choose_color">Choose Color</string>
+    <string name="color_selector">Color Selector</string>
+    <string name="enter_message">Enter your message</string>
+    <string name="send_to_activity">Send to Activity</string>
+    <string name="share_externally">Share Externally</string>
+</resources>
